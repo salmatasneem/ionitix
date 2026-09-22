@@ -1,0 +1,6 @@
+{
+  "name": "EduBridge AI",
+  "description": "AI-Powered Academic Gap Detection & Recovery System with Handwritten Answer Sheet OCR & NLP Evaluator",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
